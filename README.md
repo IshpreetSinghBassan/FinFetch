@@ -145,7 +145,7 @@ Commercial use, including reselling, sublicensing, integrating into paid service
 
 If you wish to use this project commercially, you **must obtain a commercial license** by contacting:
 
-> 📧 [ishpreet@yourdomain.com](mailto:ishpreet@yourdomain.com) (replace with your real contact)
+> 📧 [ishpreetsingh08@yahoo.com](mailto:ishpreetsingh08@yahoo.com) 
 
 This license is governed by and construed in accordance with the laws of \[Your Country].
 
