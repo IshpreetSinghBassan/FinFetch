@@ -147,8 +147,7 @@ If you wish to use this project commercially, you **must obtain a commercial lic
 
 > 📧 [ishpreetsingh08@yahoo.com](mailto:ishpreetsingh08@yahoo.com) 
 
-This license is governed by and construed in accordance with the laws of \[Your Country].
-
 ---
 
 **TL;DR:** Free for personal and educational use. Contact the author to use it commercially.
+
