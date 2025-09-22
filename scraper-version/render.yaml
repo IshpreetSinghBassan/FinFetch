@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: finfetch-api
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT app:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: TE_API_KEY
+        sync: false  # Set this manually in Render dashboard if you have a TradingEconomics API key
+    healthCheckPath: /
+    autoDeploy: true
