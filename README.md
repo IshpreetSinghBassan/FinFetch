@@ -627,24 +627,6 @@ const fetchMarketData = async () => {
 
 ---
 
-## 📊 **GitHub Repository Stats**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&repo=FinFetch-API&show_icons=true&theme=default)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&repo=FinFetch-API&layout=compact)](https://github.com/YOUR_USERNAME/FinFetch-API)
-
-![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/FinFetch-API?style=flat-square)
-![Code Size](https://img.shields.io/github/languages/code-size/YOUR_USERNAME/FinFetch-API?style=flat-square)
-![Lines of Code](https://img.shields.io/tokei/lines/github/YOUR_USERNAME/FinFetch-API?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/FinFetch-API?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/FinFetch-API?style=flat-square)
-
-</div>
-
----
-
 ## 🏆 **Why Choose FinFetch API?**
 
 ### **🎯 Complete Financial Data Solution:**
@@ -674,7 +656,7 @@ const fetchMarketData = async () => {
 </tr>
 <tr>
 <td><strong>⚡ Performance Optimized</strong></td>
-<td><td>API version delivers <strong>1-3 second responses</strong>, scraper version has intelligent fallbacks and anti-blocking</td>
+<td>API version delivers <strong>1-3 second responses</strong>, scraper version has intelligent fallbacks and anti-blocking</strong></td>
 </tr>
 <tr>
 <td><strong>🌍 Global Coverage</strong></td>
@@ -691,88 +673,6 @@ const fetchMarketData = async () => {
 </table>
 
 </div>
-
-### **🎪 Testimonials & Use Cases:**
-
-> *"Started with the scraper version for my personal portfolio tracker, then upgraded to the API version when I launched my fintech startup. Perfect progression!"*  
-> **- Sarah Chen, Fintech Founder**
-
-> *"The API version powers our real-time trading dashboard. 1-2 second response times are crucial for our clients."*  
-> **- Michael Rodriguez, Hedge Fund CTO**
-
-> *"Amazing that the scraper version is completely free. Perfect for teaching my students about financial APIs."*  
-> **- Prof. David Kim, Computer Science**
-
----
-
-## 🤝 **Contributing**
-
-### **🌟 Join Our Growing Community:**
-
-<div align="center">
-
-[![Contributors](https://contrib.rocks/image?repo=YOUR_USERNAME/FinFetch-API)](https://github.com/YOUR_USERNAME/FinFetch-API/graphs/contributors)
-
-[![GitHub Issues](https://img.shields.io/badge/Issues-Help%20Wanted-brightgreen?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/FinFetch-API/issues)
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Community-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/FinFetch-API/discussions)
-[![Discord](https://img.shields.io/badge/Discord-Chat%20Live-purple?style=for-the-badge&logo=discord)](https://discord.gg/your-discord-link)
-
-</div>
-
-### **🚀 Ways to Contribute:**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🐛 Bug Reports & Fixes**
-- Found a scraping issue?
-- API endpoint not working?
-- Performance problems?
-
-[📝 Report Bug](https://github.com/YOUR_USERNAME/FinFetch-API/issues/new?template=bug_report.md)
-
-</td>
-<td width="33%" align="center">
-
-**💡 Feature Requests**
-- Need a new data source?
-- Want additional endpoints?
-- Missing functionality?
-
-[💡 Request Feature](https://github.com/YOUR_USERNAME/FinFetch-API/issues/new?template=feature_request.md)
-
-</td>
-<td width="33%" align="center">
-
-**💻 Code Contributions**
-- Fix bugs and issues
-- Add new data sources
-- Improve documentation
-- Optimize performance
-
-[🤝 Contribute Code](CONTRIBUTING.md)
-
-</td>
-</tr>
-</table>
-
-### **📈 Contribution Impact:**
-- 🌟 **50+ Contributors** have improved FinFetch
-- 🔧 **200+ Issues** resolved by the community  
-- 📊 **15+ Data Sources** added by contributors
-- 🌍 **Global Community** from 30+ countries
-
-### **🏆 Top Contributors:**
-
-```
-🥇 @contributor1 - Added TradingEconomics integration
-🥈 @contributor2 - Built the React dashboard example  
-🥉 @contributor3 - Improved error handling and logging
-⭐ @contributor4 - Created the deployment automation
-⭐ @contributor5 - Added comprehensive test coverage
-```
-
 ---
 
 ## 🎯 **Roadmap & Future Plans**
@@ -843,113 +743,8 @@ For enterprise deployments:
 
 ---
 
-## 📞 **Support & Community**
-
-### **💬 Get Help & Connect:**
-
-<div align="center">
-
-<table>
-<tr>
-<th width="25%">📞 Support Type</th>
-<th width="25%">🆓 Free Support</th>
-<th width="25%">💼 Priority Support</th>
-<th width="25%">🏢 Enterprise</th>
-</tr>
-<tr>
-<td><strong>📚 Documentation</strong></td>
-<td>✅ Comprehensive guides<br/>✅ Code examples<br/>✅ Video tutorials</td>
-<td>✅ Everything in Free<br/>✅ Implementation guides<br/>✅ Best practices</td>
-<td>✅ Everything in Priority<br/>✅ Custom documentation<br/>✅ Architecture reviews</td>
-</tr>
-<tr>
-<td><strong>💬 Community</strong></td>
-<td>✅ GitHub Issues<br/>✅ GitHub Discussions<br/>✅ Discord community</td>
-<td>✅ Everything in Free<br/>✅ Priority response<br/>✅ Direct developer access</td>
-<td>✅ Everything in Priority<br/>✅ Dedicated Slack channel<br/>✅ Video calls available</td>
-</tr>
-<tr>
-<td><strong>⏰ Response Time</strong></td>
-<td>📅 Best effort<br/>(Usually 24-48 hours)</td>
-<td>⚡ Within 24 hours<br/>(Business days)</td>
-<td>🚨 Within 4 hours<br/>(24/7 for critical issues)</td>
-</tr>
-<tr>
-<td><strong>💰 Cost</strong></td>
-<td><span style="color: green"><strong>Free</strong></span></td>
-<td><span style="color: blue"><strong>$99/month</strong></span></td>
-<td><span style="color: purple"><strong>Custom pricing</strong></span></td>
-</tr>
-</table>
-
-</div>
-
-### **📱 Community Channels:**
-
-<div align="center">
-
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/your-discord-invite)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/your-company)
-
-</div>
-
 ### **📧 Direct Contact:**
-- 💼 **Business Inquiries**: [business@finfetch.com](mailto:business@finfetch.com)
-- 🤝 **Partnerships**: [partnerships@finfetch.com](mailto:partnerships@finfetch.com)
-- 🔒 **Security Issues**: [security@finfetch.com](mailto:security@finfetch.com)
 - 👨‍💻 **Developer Support**: [ishpreetsingh08@yahoo.com](mailto:ishpreetsingh08@yahoo.com)
-
----
-
-## 📄 **License & Usage**
-
-### **📋 License Summary:**
-
-<table>
-<tr>
-<th width="25%">Use Case</th>
-<th width="25%">🟢 Allowed</th>
-<th width="25%">⚠️ Requires Permission</th>
-<th width="25%">🔴 Not Allowed</th>
-</tr>
-<tr>
-<td><strong>🎓 Personal & Educational</strong></td>
-<td>✅ Personal projects<br/>✅ Learning & tutorials<br/>✅ Academic research</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>💻 Open Source</strong></td>
-<td>✅ Open source projects<br/>✅ Non-profit organizations<br/>✅ Community contributions</td>
-<td>⚠️ Large-scale deployment<br/>⚠️ Funded open source</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>💼 Commercial</strong></td>
-<td>✅ Internal business tools<br/>✅ Evaluation & testing</td>
-<td>⚠️ Commercial products<br/>⚠️ SaaS platforms<br/>⚠️ Reselling data</td>
-<td>🔴 Competing products<br/>🔴 White-labeling<br/>🔴 Redistribution</td>
-</tr>
-</table>
-
-### **💼 Commercial Licensing:**
-
-**Need to use FinFetch commercially?** We offer flexible licensing:
-
-- 🚀 **Startup License** - $99/month - Up to $1M revenue
-- 💼 **Business License** - $499/month - Up to $10M revenue  
-- 🏢 **Enterprise License** - Custom pricing - Unlimited revenue
-- 🤝 **White Label License** - Custom pricing - Rebrand & resell
-
-**Contact for licensing:** [business@finfetch.com](mailto:business@finfetch.com)
-
-### **🎯 License Benefits:**
-- ✅ **Commercial Usage Rights** - Use in your products
-- ✅ **Premium Support** - Priority help and consulting
-- ✅ **Custom Features** - Tailored enhancements
-- ✅ **Legal Protection** - Indemnification and warranties
-- ✅ **White Label Options** - Remove FinFetch branding
 
 ---
 
@@ -1018,26 +813,10 @@ cd FinFetch-API/api-version && pip install -r requirements.txt && python app.py
 
 ### **🌟 Show Your Support:**
 
-**If FinFetch helps your project, please consider:**
-
-[![Star on GitHub](https://img.shields.io/github/stars/YOUR_USERNAME/FinFetch-API?style=social)](https://github.com/YOUR_USERNAME/FinFetch-API)
-[![Fork on GitHub](https://img.shields.io/github/forks/YOUR_USERNAME/FinFetch-API?style=social)](https://github.com/YOUR_USERNAME/FinFetch-API/fork)
-[![Tweet About It](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME%2FFinFetch-API)](https://twitter.com/intent/tweet?text=Check%20out%20FinFetch%20API%20-%20Complete%20financial%20data%20solution%20with%20both%20free%20and%20premium%20versions!&url=https://github.com/YOUR_USERNAME/FinFetch-API)
-
-**⭐ Star the repository • 🍴 Fork for your projects • 📢 Share with developers**
-
----
-
-**🎊 Join thousands of developers already using FinFetch API!**
-
-[![Stargazers](https://img.shields.io/github/stargazers/YOUR_USERNAME/FinFetch-API?style=social)](https://github.com/YOUR_USERNAME/FinFetch-API/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/FinFetch-API?style=social)](https://github.com/YOUR_USERNAME/FinFetch-API/watchers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/FinFetch-API?style=social)](https://github.com/YOUR_USERNAME/FinFetch-API/network/members)
-
----
+**If FinFetch helps your project, please consider Supporting by contacting me.**
 
 <sub>
-<em>Built with ❤️ by <a href="https://github.com/YOUR_USERNAME">Ishpreet Bassan</a> and the FinFetch community</em><br/>
+<em>Built with ❤️ by <a href="https://github.com/IshpreetSinghBassan">Ishpreet Singh Bassan</a> 
 <em>Proudly serving developers worldwide with reliable financial data</em><br/>
 <em>© 2025 FinFetch API - Empowering financial innovation</em>
 </sub>
