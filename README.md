@@ -7,9 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.3+-green?style=flat-square&logo=flask)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)](#-license)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/FinFetch-API?style=flat-square)](https://github.com/YOUR_USERNAME/FinFetch-API/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/FinFetch-API?style=flat-square)](https://github.com/YOUR_USERNAME/FinFetch-API/network)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/FinFetch-API?style=flat-square)](https://github.com/YOUR_USERNAME/FinFetch-API/issues)
 
 **🎯 Two powerful versions in one repository - Choose your perfect financial data solution!**
 
