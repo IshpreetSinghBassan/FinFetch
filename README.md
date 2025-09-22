@@ -212,7 +212,7 @@ FinFetch is a **comprehensive RESTful API** that provides real-time financial da
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/FinFetch-API.git
+git clone https://github.com/IshpreetSinghBassan/FinFetch-API.git
 cd FinFetch-API/scraper-version
 
 # 2. Install dependencies
@@ -250,7 +250,7 @@ python app.py
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/FinFetch-API.git
+git clone https://github.com/IshpreetSinghBassan/FinFetch-API.git
 cd FinFetch-API/api-version
 
 # 2. Install dependencies
