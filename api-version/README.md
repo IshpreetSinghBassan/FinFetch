@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22499300/README.md)
 # 📊 FinFetch API
 
 FinFetch is a RESTful API built with Python and Flask that provides aggregated **financial data**, including:
